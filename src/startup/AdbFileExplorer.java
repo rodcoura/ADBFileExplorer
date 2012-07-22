@@ -10,6 +10,7 @@ import controllers.ADBFileExplorerController;
 public class AdbFileExplorer {
 	/**
 	 * Launch the application.
+	 * Check compute arch then tell if swing will be global menu on MAC or not 
 	 * @throws UnsupportedLookAndFeelException 
 	 * @throws IllegalAccessException 
 	 * @throws InstantiationException 
